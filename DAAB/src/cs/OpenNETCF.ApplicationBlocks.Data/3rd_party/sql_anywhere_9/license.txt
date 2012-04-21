@@ -1,0 +1,121 @@
+IANYWHERE NO-CHARGE 60 DAY SOFTWARE EVALUATION LICENSE AGREEMENT
+
+
+BEFORE USING THE ACCOMPANYING SOFTWARE, CAREFULLY 
+READ THE FOLLOWING TERMS AND CONDITIONS WHICH 
+INCLUDE THE SOFTWARE LICENSE AND LIMITED WARRANTY 
+(collectively called the "Agreement"). 
+
+USING THE ACCOMPANYING SOFTWARE INDICATES YOUR 
+ACCEPTANCE OF THE AGREEMENT.  IF YOU DO NOT ACCEPT OR 
+AGREE WITH THESE TERMS, YOU SHOULD NOT INSTALL THE 
+SOFTWARE.
+
+LICENSE
+The accompanying software product (the "Software") is owned by iAnywhere, 
+Solutions Inc. (hereafter referred to in this Agreement as "IANYWHERE") or by its suppliers 
+and is protected by copyright law and international treaty provisions.
+IANYWHERE hereby grants you a non-exclusive license to use the Software for 
+evaluation purposes only as follows:
+You may:
+*	use the Software only on one computer.
+*	make one copy of the Software for archival or backup purposes.
+*	permanently transfer your rights hereunder, provided you also transfer all 
+copies of the Software and provided the transferee agrees to the terms and 
+conditions of this Agreement. 
+
+RESTRICTIONS
+You may not:
+*	use, copy, modify, or transfer the Software, or any copy in whole or in 
+part, except as expressly provided for in this license.
+*	allow the Software to be used on more than one computer at a time or by 
+more than one person at a time except as otherwise expressly provided 
+herein.
+*	use the Software for development or production purposes.
+*	rent or lease the Software.
+*	modify or adapt the Software in whole or in part including but not limited 
+to translating or creating derivative works.
+*	disassemble or reverse compile for the purpose of reverse engineering the 
+Software.
+All rights not expressly granted are reserved and retained by IANYWHERE.
+
+TERMINATION
+This Agreement and your license to use the Software will automatically terminate 
+without notice 60 days from the date you acquired it or earlier if you fail to 
+comply with any provision of this Agreement.  Upon termination you shall 
+destroy all copies of the Software.  All disclaimers of warranties and limitation of 
+liability set forth in this  Agreement shall survive any termination of this 
+Agreement.
+
+SELECTION AND USE
+You assume full responsibility for the selection of the Software to achieve your 
+intended results and for the installation, use and results obtained from the 
+Software.
+
+LIMITED WARRANTY
+IANYWHERE is providing this evaluation Software free of charge on an "as is" basis 
+without warranty of any kind. IANYWHERE DISCLAIMS ALL WARRANTIES 
+OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING, BUT NOT 
+LIMITED TO THE IMPLIED WARRANTIES OR CONDITIONS OF 
+MERCHANTABLE QUALITY AND FITNESS FOR A PARTICULAR 
+PURPOSE AND THOSE ARISING BY STATUTE OR OTHERWISE IN 
+LAW OR FROM A COURSE OF DEALING OR USAGE OF TRADE.
+No oral or written information given by IANYWHERE, its agents or employees shall 
+create a modification or addition to this warranty unless it is set forth in writing, 
+references this Agreement and is signed on behalf of IANYWHERE by an authorized 
+official.
+
+LIMITATIONS OF REMEDIES AND LIABILITY
+IN NO EVENT WILL IANYWHERE OR ITS DIRECT OR INDIRECT 
+SUPPLIERS BE LIABLE FOR ANY DAMAGES WHATSOEVER 
+INCLUDING, BUT NOT LIMITED TO, DIRECT, INDIRECT, SPECIAL, 
+INCIDENTAL OR CONSEQUENTIAL DAMAGES OR OTHER 
+PECUNIARY LOSS ARISING OUT OF THE USE OF OR INABILITY 
+TO USE THE SOFTWARE, EVEN IF IANYWHERE HAS BEEN ADVISED OF 
+THE POSSIBILITY OF SUCH DAMAGES.  In particular, IANYWHERE and its 
+suppliers are not responsible for any costs including, without limitation, loss of 
+business profits, business interruption, loss of business information, the cost of 
+recovering such information, the cost of substitute software, or claims by third 
+parties.
+IN NO CASE SHALL ANY DIRECT OR INDIRECT SUPPLIERS OF 
+IANYWHERE BEAR ANY LIABILITY FOR ANY REASON WHATSOEVER 
+AND IN NO CASE SHALL IANYWHERE'S LIABILITY EXCEED THE 
+AMOUNT OF THE LICENSE FEE ACTUALLY PAID BY YOU.  This 
+Agreement gives you certain legal rights.  You may have other rights under local 
+law, so some of the above may not apply or may be limited.
+
+U.S. GOVERNMENT RESTRICTED RIGHTS
+The Software (including the documentation) is provided with RESTRICTED 
+RIGHTS.  Use, duplication, or disclosure by the Government is subject to 
+restrictions as set forth in sub-paragraph (c)(1)(ii) of the Rights in Technical Data 
+and Computer Software clause at DFARS 252.227-7013 or subparagraph (c)(1) 
+and (2) of the Commercial Computer Software-Restricted Rights clause at 48 
+CFR 52.227-19, as applicable.  Contractor/manufacturer is iAnywhere Solutions, Inc./
+One Sybase Drive,/Dublin, CA 94568.
+
+EXPORT RESTRICTIONS
+You acknowledge that the Software is subject to the export control laws and 
+regulations of the US, and any amendments thereof.  You confirm that you will 
+not export or re-export the Software, directly or indirectly, either to (i) any 
+countries that are subject to US export restrictions (currently including, but not 
+necessarily limited to, Cuba, the Federal Republic of Yugoslavia (Serbia and 
+Montenegro), Iran, Iraq, Libya, North Korea, and Syria); (ii) any end user who 
+you know or have reason to know will utilize them in the design, development or 
+production of nuclear, chemical or biological weapons; or (iii) any end user who 
+has been prohibited from participating in the US export transactions by any 
+federal agency of the US government.  You further acknowledge that the 
+Software may include technical data subject to export and re-export restrictions 
+imposed by US law.
+
+GENERAL
+This Agreement shall be governed by (a) the laws of the State of California if this 
+Program Package was obtained by you in the United States and by (b) the laws of 
+the Province of Ontario and the laws of Canada therein if this Program Package 
+was obtained by you elsewhere.
+
+If you have any questions concerning this Agreement, or otherwise wish to 
+contact a support person, write to:
+
+iAnywhere Solutions, Inc.
+One Sybase Drive
+Dublin, CA 94568
